@@ -7,7 +7,7 @@ Electronic : PCB with 3 directional switches and one for electromagnet ON/OFF SP
 Programming : None as there ain't MCU  
 Manipulator : Electromagnet to lift Ferric object  
 Vision : Underwater camera in 15m stretch  
-Tether : CAT 5 cable  
+Tether : CAT 5 cable in 15m stretch  
 Mission 1 : Maneuverability - Move and Settle ROV on Landing Pad  
 Mission 2 : Time racing - Dogfight  
 Mission 3 : Catch and delivery Ferric object by electromagnet  
