@@ -26,4 +26,5 @@ Bill of Materials
 |4pins connector|2pcs|
 |4mm Terminal|2pcs|
 |Electromagnet|1pcs|
-|Underwater Camera|3pcs|
+|Underwater Camera|1pcs-15m|
+|Tether|1pcs-15m|
