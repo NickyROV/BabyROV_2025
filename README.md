@@ -20,7 +20,7 @@ Bill of Materials
 |Angle joint|10pcs|
 |T joint|4pcs|
 |Thruster|3pcs|
-|BabyROD PCB|1pcs|
+|BabyROV PCB|1pcs|
 |DPDT|3pcs|
 |SPST|1pcs|
 |4pins connector|2pcs|
